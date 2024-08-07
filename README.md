@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on a home library management tool.<br>🌱 I’m currently learning the use of APIs.<br>⚡ Fun fact The weight of all of ants on the planet is equal to the weight of all humans on the planet.<br>
+🔭 I’m currently working on a home library management tool & a near space object visualisation system<br>🌱 I’m currently learning the use of APIs.<br>⚡ Fun fact The weight of all of ants on the planet is equal to the weight of all humans on the planet.<br>
 <img align="centre" height="272" width="500px" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJyaGU3ZjQ4eWtuNzl2cGg1MGw1YnhwZm5zMWo1dDRzaXhyM3d4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dbtDDSvWErdf2/giphy.gif" />
 
 ## Socials:
